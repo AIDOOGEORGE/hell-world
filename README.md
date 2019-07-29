@@ -1,2 +1,2 @@
 # hell-world
-Another repository
+Hello everyone, i am GEORGE P. AIDOO and i love github.
